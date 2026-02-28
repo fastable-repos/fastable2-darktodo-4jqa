@@ -20,5 +20,5 @@ npx playwright test
 
 
 
-**Preview:** [https://fastable2-10000000.vercel.app](https://fastable2-10000000.vercel.app)
+**Preview:** [https://fastable2-99ca5e37.vercel.app](https://fastable2-99ca5e37.vercel.app)
 <!-- /fastable2:screenshots -->
