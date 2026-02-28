@@ -93,7 +93,7 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "timedOut",
-                      "duration": 30077,
+                      "duration": 30076,
                       "error": {
                         "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m",
                         "stack": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
@@ -114,7 +114,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-02-28T14:35:54.675Z",
+                      "startTime": "2026-02-28T14:47:45.167Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -149,7 +149,7 @@
                       "workerIndex": 1,
                       "parallelIndex": 0,
                       "status": "timedOut",
-                      "duration": 30068,
+                      "duration": 30066,
                       "error": {
                         "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m",
                         "stack": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
@@ -170,7 +170,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-02-28T14:36:26.071Z",
+                      "startTime": "2026-02-28T14:48:16.589Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -205,7 +205,7 @@
                       "workerIndex": 2,
                       "parallelIndex": 0,
                       "status": "timedOut",
-                      "duration": 30076,
+                      "duration": 30064,
                       "error": {
                         "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m",
                         "stack": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
@@ -226,7 +226,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-02-28T14:36:57.439Z",
+                      "startTime": "2026-02-28T14:48:47.878Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -261,7 +261,7 @@
                       "workerIndex": 3,
                       "parallelIndex": 0,
                       "status": "timedOut",
-                      "duration": 30094,
+                      "duration": 30102,
                       "error": {
                         "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m",
                         "stack": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
@@ -282,7 +282,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-02-28T14:37:28.852Z",
+                      "startTime": "2026-02-28T14:49:19.218Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -317,7 +317,7 @@
                       "workerIndex": 4,
                       "parallelIndex": 0,
                       "status": "timedOut",
-                      "duration": 30080,
+                      "duration": 30070,
                       "error": {
                         "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m",
                         "stack": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
@@ -338,7 +338,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-02-28T14:38:00.188Z",
+                      "startTime": "2026-02-28T14:49:50.575Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -373,7 +373,7 @@
                       "workerIndex": 5,
                       "parallelIndex": 0,
                       "status": "timedOut",
-                      "duration": 30062,
+                      "duration": 30115,
                       "error": {
                         "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m",
                         "stack": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
@@ -394,7 +394,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-02-28T14:38:31.542Z",
+                      "startTime": "2026-02-28T14:50:21.900Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -429,7 +429,7 @@
                       "workerIndex": 6,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 5269,
+                      "duration": 5266,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m(\u001b[22m\u001b[2m)\u001b[22m failed\n\nLocator: locator('[data-theme=\"dark\"]')\nExpected: visible\nTimeout: 5000ms\nError: element(s) not found\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for locator('[data-theme=\"dark\"]')\u001b[22m\n",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m(\u001b[22m\u001b[2m)\u001b[22m failed\n\nLocator: locator('[data-theme=\"dark\"]')\nExpected: visible\nTimeout: 5000ms\nError: element(s) not found\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for locator('[data-theme=\"dark\"]')\u001b[22m\n\n    at /tmp/work/99ca5e37-848c-45e1-99c5-fc83ec634f4e/e2e/app.spec.ts:128:55",
@@ -453,7 +453,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-02-28T14:39:02.857Z",
+                      "startTime": "2026-02-28T14:50:53.255Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -493,7 +493,7 @@
                       "workerIndex": 7,
                       "parallelIndex": 0,
                       "status": "timedOut",
-                      "duration": 30073,
+                      "duration": 30070,
                       "error": {
                         "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m",
                         "stack": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
@@ -514,7 +514,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-02-28T14:39:09.867Z",
+                      "startTime": "2026-02-28T14:50:59.789Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -549,7 +549,7 @@
                       "workerIndex": 8,
                       "parallelIndex": 0,
                       "status": "timedOut",
-                      "duration": 30083,
+                      "duration": 30069,
                       "error": {
                         "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m",
                         "stack": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
@@ -570,7 +570,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-02-28T14:39:41.214Z",
+                      "startTime": "2026-02-28T14:51:31.117Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -605,7 +605,7 @@
                       "workerIndex": 9,
                       "parallelIndex": 0,
                       "status": "timedOut",
-                      "duration": 30061,
+                      "duration": 30066,
                       "error": {
                         "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m",
                         "stack": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
@@ -626,7 +626,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-02-28T14:40:12.560Z",
+                      "startTime": "2026-02-28T14:52:02.474Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -661,7 +661,7 @@
                       "workerIndex": 10,
                       "parallelIndex": 0,
                       "status": "timedOut",
-                      "duration": 30068,
+                      "duration": 30060,
                       "error": {
                         "message": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m",
                         "stack": "\u001b[31mTest timeout of 30000ms exceeded.\u001b[39m"
@@ -682,7 +682,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-02-28T14:40:43.839Z",
+                      "startTime": "2026-02-28T14:52:33.800Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -717,7 +717,7 @@
                       "workerIndex": 11,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 5297,
+                      "duration": 5298,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m(\u001b[22m\u001b[2m)\u001b[22m failed\n\nLocator: locator('[data-theme=\"dark\"]')\nExpected: visible\nTimeout: 5000ms\nError: element(s) not found\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for locator('[data-theme=\"dark\"]')\u001b[22m\n",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m(\u001b[22m\u001b[2m)\u001b[22m failed\n\nLocator: locator('[data-theme=\"dark\"]')\nExpected: visible\nTimeout: 5000ms\nError: element(s) not found\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m  - waiting for locator('[data-theme=\"dark\"]')\u001b[22m\n\n    at /tmp/work/99ca5e37-848c-45e1-99c5-fc83ec634f4e/e2e/app.spec.ts:205:55",
@@ -741,7 +741,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2026-02-28T14:41:15.156Z",
+                      "startTime": "2026-02-28T14:53:05.117Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -772,8 +772,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2026-02-28T14:35:52.407Z",
-    "duration": 328218.065,
+    "startTime": "2026-02-28T14:47:43.801Z",
+    "duration": 326775.78900000005,
     "expected": 0,
     "skipped": 0,
     "unexpected": 12,
