@@ -77,8 +77,8 @@
     }
   ],
   "stats": {
-    "startTime": "2026-02-28T15:09:11.575Z",
-    "duration": 1000.0200000000002,
+    "startTime": "2026-02-28T15:12:02.544Z",
+    "duration": 1020.289,
     "expected": 0,
     "skipped": 0,
     "unexpected": 0,
